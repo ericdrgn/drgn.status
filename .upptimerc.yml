@@ -20,6 +20,7 @@ status-website:
   name: Dragon Systems
   introTitle: "Check the status of various Dragon Systems apps."
   introMessage: Dragon Systems Uptime
+  theme: dark
   navbar:
     - title: Status
       href: /
