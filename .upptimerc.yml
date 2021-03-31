@@ -30,6 +30,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/ericdrgn/drgnstatus
+      
+i18n:
+  footer: Dragon Systems %YEAR%
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
