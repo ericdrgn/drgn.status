@@ -6,21 +6,25 @@ repo: drgnstatus # Your GitHub repository name
 sites:
   - name: Cloud
     url: https://cloud.drgn.xyz
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
   - name: Git
     url: https://git.drgn.xyz
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
   - name: Matrix
     url: https://matrix.drgn.im
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.drgn.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://github.com/ericdrgn/drgnstatus/blob/master/assets/primary_white.png
+  logoUrl: https://res.cloudinary.com/drgn/image/upload/v1617220790/primary_white_lz3skd.png
   name: Dragon Systems
   introTitle: "Check the status of various Dragon Systems apps."
   introMessage: Dragon Systems Uptime
   theme: night
+  favicon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
   navbar:
     - title: Status
       href: /
