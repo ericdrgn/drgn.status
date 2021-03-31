@@ -28,10 +28,6 @@ sites:
   - name: File Share
     url: https://share.drgn.xyz
     icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
-  - name: Server
-    url: $SECRET_SECRET
-    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
-
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
