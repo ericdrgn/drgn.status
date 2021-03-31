@@ -17,7 +17,7 @@ sites:
     url: https://vault.drgn.xyz
     icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
   - name: Social
-    url: https://social.drgn.xyz
+    url: https://drgn.social
     icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
   - name: Forum
     url: https://forum.drgn.systems
