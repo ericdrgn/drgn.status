@@ -16,7 +16,7 @@ status-website:
   cname: status.drgn.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/ericdrgn/drgnstatus/blob/master/assets/primary_white.png
   name: Dragon Systems
   introTitle: "Check the status of various Dragon Systems apps."
   introMessage: Dragon Systems Uptime
