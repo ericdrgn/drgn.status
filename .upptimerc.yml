@@ -13,6 +13,25 @@ sites:
   - name: Matrix
     url: https://matrix.drgn.im
     icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
+  - name: Vault
+    url: https://vault.drgn.xyz
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
+  - name: Social
+    url: https://social.drgn.xyz
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
+  - name: Forum
+    url: https://forum.drgn.systems
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
+  - name: Search
+    url: https://search.drgn.xyz
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
+  - name: File Share
+    url: https://share.drgn.xyz
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
+  - name: Server
+    url: $SECRET_SECRET
+    icon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -21,18 +40,18 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://res.cloudinary.com/drgn/image/upload/v1617220790/mark_white_kn1y0m.png
   name: Status
-  introTitle: "Check the status of various Dragon Systems apps."
-  introMessage: Dragon Systems Uptime
+  # introTitle: "Check the status of various Dragon Systems apps."
+  # introMessage: Dragon Systems Uptime
   theme: night
   favicon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/ericdrgn/drgnstatus
+    - title: Git
+      href: https://git.drgn.xyz/ericdrgn
       
 i18n:
-  footer: Dragon Systems
+  footer: Uptime, Dragon Style
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
