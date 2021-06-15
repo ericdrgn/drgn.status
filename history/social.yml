@@ -1,7 +1,7 @@
 url: https://drgn.social
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2021-06-14T23:12:49.239Z
+status: down
+code: 500
+responseTime: 497
+lastUpdated: 2021-06-15T09:08:44.355Z
 startTime: Wed Mar 31 2021 21:31:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
