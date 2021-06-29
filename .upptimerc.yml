@@ -50,7 +50,7 @@ status-website:
   --card-background-color: #ffffff;
   --nav-background-color: #ffffff;
   --nav-border-bottom-color: #d8e8e4;
-  --nav-current-border-bottom-color: #1abc9c;
+  --nav-current-border-bottom-color: #ffffff;
   --card-border-color: #d8e8e4;
   --down-border-left-color: #eb3b5a;
   --down-background-color: #ffd0d2;
@@ -71,7 +71,7 @@ status-website:
   --graph-filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%);
 }
     .svelte-a08hsz { background-color: #000000; color: white; }
-    article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; background-color: #000000; }
+    article { border: 1px solid #ffffff; padding: 1rem 1.25rem; position: relative; border-radius: 0; background-color: #000000; }
     article.good.svelte-1uadwzk { background-color: green; color: white; }    
     chartjs-render-monitor { filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%); }
     body { background-color: #000000; color: white; }
