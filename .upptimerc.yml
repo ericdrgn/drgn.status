@@ -70,13 +70,13 @@ status-website:
   --graph-opacity: 1;
   --graph-filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%);
 }
-    .svelte-a08hsz { background-color: #111111; color: white; }
-    article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; background-color: #222222; }
+    .svelte-a08hsz { background-color: #000000; color: white; }
+    article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; background-color: #000000; }
     article.good.svelte-1uadwzk { background-color: green; color: white; }    
     chartjs-render-monitor { filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%); }
-    body { background-color: #222222; color: white; }
-    article { background-color: #111111; }
-    nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #222222; border-bottom: 1px solid silver; }
+    body { background-color: #000000; color: white; }
+    article { background-color: #000000; }
+    nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #000000; border-bottom: 1px solid white; }
     .tag { border-radius: 0; }
     .tag.closed, .tag.up { background-color: green; }
     .chartjs-render-monitor { animation: chartjs-render-animation 0.001s; filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%); }
