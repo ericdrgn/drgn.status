@@ -78,7 +78,8 @@ status-website:
     nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #222222; border-bottom: 1px solid silver; }
     .tag { border-radius: 0; }
     .tag.closed, .tag.up { background-color: green; }
-    .ch
+    .chartjs-render-monitor { animation: chartjs-render-animation 0.001s; filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%); }
+    "
       
 i18n:
   footer: Uptime, Dragon Style
