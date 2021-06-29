@@ -32,8 +32,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://res.cloudinary.com/drgn/image/upload/v1617220790/mark_white_kn1y0m.png
-  name: Dragon Status
-  hideNavTitle: true
+  name: Status
   # introTitle: "Check the status of various Dragon Systems apps."
   # introMessage: Dragon Systems Uptime
   theme: night
@@ -43,7 +42,7 @@ status-website:
       href: /
     - title: Git
       href: https://git.drgn.xyz/ericdrgn
-css:   "
+  css:   "
    :root {
   --body-background-color: #f0f7f7;
   --body-text-color: #002626;
@@ -81,7 +80,7 @@ css:   "
     .tag.closed, .tag.up { background-color: green; }
     .chartjs-render-monitor { animation: chartjs-render-animation 0.001s; filter: invert(44%) sepia(93%) saturate(2391%) hue-rotate(178deg) brightness(103%) contrast(106%); }
     "
-
+      
 i18n:
   footer: Uptime, Dragon Style
 
