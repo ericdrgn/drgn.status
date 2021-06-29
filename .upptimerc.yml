@@ -36,6 +36,7 @@ status-website:
   hideNavTitle: true
   # introTitle: "Check the status of various Dragon Systems apps."
   # introMessage: Dragon Systems Uptime
+  theme: night
   favicon: https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png
   navbar:
     - title: Status
