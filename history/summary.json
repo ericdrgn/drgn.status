@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
-    "time": 606,
-    "timeDay": 553,
-    "timeWeek": 451,
-    "timeMonth": 477,
-    "timeYear": 609,
+    "time": 608,
+    "timeDay": 462,
+    "timeWeek": 515,
+    "timeMonth": 471,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2022-12-09": 29,
       "2022-12-05": 18,
@@ -38,16 +38,16 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "git",
     "status": "up",
-    "uptime": "93.15%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.87%",
+    "uptimeYear": "92.06%",
     "time": 477,
-    "timeDay": 442,
-    "timeWeek": 368,
-    "timeMonth": 401,
-    "timeYear": 498,
+    "timeDay": 406,
+    "timeWeek": 349,
+    "timeMonth": 385,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2022-12-05": 18,
       "2022-10-08": 374,
@@ -83,15 +83,7 @@
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
-      "2022-04-16": 1440,
-      "2022-04-15": 1440,
-      "2022-04-14": 1440,
-      "2022-04-13": 1440,
-      "2022-04-12": 1440,
-      "2022-04-11": 1440,
-      "2022-04-10": 1440,
-      "2022-04-09": 1440,
-      "2022-04-08": 1440
+      "2022-04-16": 1440
     }
   },
   {
@@ -100,16 +92,16 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.27%",
-    "time": 620,
-    "timeDay": 673,
-    "timeWeek": 541,
-    "timeMonth": 523,
-    "timeYear": 588,
+    "uptimeYear": "99.28%",
+    "time": 598,
+    "timeDay": 489,
+    "timeWeek": 456,
+    "timeMonth": 519,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2022-12-09": 30,
       "2022-12-05": 18,
@@ -124,8 +116,7 @@
       "2022-07-15": 119,
       "2022-06-30": 33,
       "2022-06-29": 21,
-      "2022-06-21": 74,
-      "2022-04-10": 39
+      "2022-06-21": 74
     }
   },
   {
@@ -140,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 365,
-    "timeDay": 258,
-    "timeWeek": 232,
-    "timeMonth": 230,
-    "timeYear": 377,
+    "timeDay": 212,
+    "timeWeek": 226,
+    "timeMonth": 227,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2022-12-05": 18,
       "2022-10-08": 374,
@@ -157,8 +148,7 @@
       "2022-07-15": 119,
       "2022-06-30": 33,
       "2022-06-29": 21,
-      "2022-06-21": 44,
-      "2022-04-10": 20
+      "2022-06-21": 44
     }
   },
   {
@@ -171,12 +161,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 360,
-    "timeDay": 210,
-    "timeWeek": 234,
-    "timeMonth": 235,
-    "timeYear": 331,
+    "timeDay": 212,
+    "timeWeek": 211,
+    "timeMonth": 233,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2022-12-05": 18,
       "2022-10-08": 349,
@@ -190,8 +180,7 @@
       "2022-07-15": 119,
       "2022-06-30": 32,
       "2022-06-29": 21,
-      "2022-06-21": 44,
-      "2022-04-10": 19
+      "2022-06-21": 44
     }
   },
   {
@@ -200,16 +189,16 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 296,
-    "timeDay": 206,
-    "timeWeek": 204,
-    "timeMonth": 217,
-    "timeYear": 308,
+    "timeDay": 201,
+    "timeWeek": 185,
+    "timeMonth": 209,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2022-12-05": 17,
       "2022-10-08": 350,
@@ -224,8 +213,7 @@
       "2022-06-30": 33,
       "2022-06-29": 21,
       "2022-06-21": 43,
-      "2022-05-08": 26,
-      "2022-04-10": 19
+      "2022-05-08": 26
     }
   }
 ]
