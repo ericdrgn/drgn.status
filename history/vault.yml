@@ -1,7 +1,7 @@
 url: https://vault.drgn.xyz
-status: up
-code: 200
-responseTime: 218
-lastUpdated: 2023-07-05T23:13:26.538Z
+status: down
+code: 523
+responseTime: 3151
+lastUpdated: 2023-07-06T16:20:57.312Z
 startTime: Wed Mar 31 2021 21:31:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
