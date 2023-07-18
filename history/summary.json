@@ -5,16 +5,16 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "99.22%",
-    "time": 588,
-    "timeDay": 440,
-    "timeWeek": 474,
-    "timeMonth": 501,
-    "timeYear": 583,
+    "uptimeYear": "99.24%",
+    "time": 589,
+    "timeDay": 416,
+    "timeWeek": 466,
+    "timeMonth": 510,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2023-07-06": 367,
       "2023-06-02": 18,
@@ -26,8 +26,7 @@
       "2022-07-24": 1435,
       "2022-07-23": 271,
       "2022-07-20": 49,
-      "2022-07-19": 154,
-      "2022-07-18": 54
+      "2022-07-19": 154
     }
   },
   {
@@ -36,16 +35,16 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "git",
     "status": "up",
-    "uptime": "93.93%",
+    "uptime": "93.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "94.67%",
-    "time": 496,
-    "timeDay": 513,
-    "timeWeek": 427,
-    "timeMonth": 631,
-    "timeYear": 481,
+    "uptimeYear": "95.34%",
+    "time": 495,
+    "timeDay": 300,
+    "timeWeek": 425,
+    "timeMonth": 626,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2023-07-06": 380,
       "2022-12-05": 18,
@@ -66,10 +65,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440,
-      "2022-07-17": 1440,
-      "2022-07-16": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -82,12 +78,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "99.23%",
-    "time": 574,
-    "timeDay": 532,
-    "timeWeek": 521,
-    "timeMonth": 484,
-    "timeYear": 585,
+    "uptimeYear": "99.26%",
+    "time": 568,
+    "timeDay": 366,
+    "timeWeek": 535,
+    "timeMonth": 497,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2023-07-06": 366,
       "2022-12-09": 30,
@@ -98,8 +94,7 @@
       "2022-07-24": 1436,
       "2022-07-23": 268,
       "2022-07-20": 51,
-      "2022-07-19": 152,
-      "2022-07-18": 26
+      "2022-07-19": 152
     }
   },
   {
@@ -112,11 +107,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.26%",
     "time": 355,
-    "timeDay": 419,
-    "timeWeek": 257,
-    "timeMonth": 320,
+    "timeDay": 185,
+    "timeWeek": 244,
+    "timeMonth": 324,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2023-07-06": 379,
@@ -127,8 +122,7 @@
       "2022-07-24": 1436,
       "2022-07-23": 268,
       "2022-07-20": 51,
-      "2022-07-19": 152,
-      "2022-07-18": 25
+      "2022-07-19": 152
     }
   },
   {
@@ -141,12 +135,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
-    "uptimeYear": "99.25%",
-    "time": 344,
-    "timeDay": 306,
-    "timeWeek": 264,
-    "timeMonth": 737,
-    "timeYear": 352,
+    "uptimeYear": "99.27%",
+    "time": 345,
+    "timeDay": 180,
+    "timeWeek": 250,
+    "timeMonth": 742,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2023-07-06": 365,
       "2022-12-05": 18,
@@ -156,8 +150,7 @@
       "2022-07-24": 1436,
       "2022-07-23": 267,
       "2022-07-20": 51,
-      "2022-07-19": 151,
-      "2022-07-18": 25
+      "2022-07-19": 151
     }
   },
   {
@@ -166,16 +159,16 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.27%",
     "time": 324,
-    "timeDay": 244,
-    "timeWeek": 221,
+    "timeDay": 191,
+    "timeWeek": 224,
     "timeMonth": 731,
-    "timeYear": 344,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2023-07-06": 365,
       "2022-12-05": 17,
@@ -185,8 +178,7 @@
       "2022-07-24": 1436,
       "2022-07-23": 267,
       "2022-07-20": 51,
-      "2022-07-19": 150,
-      "2022-07-18": 25
+      "2022-07-19": 150
     }
   }
 ]
