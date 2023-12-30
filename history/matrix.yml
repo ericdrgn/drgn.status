@@ -1,7 +1,7 @@
 url: https://matrix.drgn.im
-status: up
-code: 200
-responseTime: 406
-lastUpdated: 2023-12-29T23:11:41.339Z
+status: down
+code: 502
+responseTime: 537
+lastUpdated: 2023-12-30T07:29:29.272Z
 startTime: 2021-03-31T03:56:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
