@@ -1,7 +1,7 @@
 url: https://cloud.drgn.xyz
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2024-01-03T23:12:45.592Z
+status: down
+code: 502
+responseTime: 194
+lastUpdated: 2024-01-04T07:50:17.763Z
 startTime: 2021-03-31T03:56:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
