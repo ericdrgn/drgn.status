@@ -5,18 +5,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "cloud",
     "status": "down",
-    "uptime": "88.65%",
+    "uptime": "88.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.62%",
-    "time": 1259,
-    "timeDay": 3305,
-    "timeWeek": 3265,
-    "timeMonth": 3281,
-    "timeYear": 1469,
+    "uptimeYear": "62.34%",
+    "time": 1265,
+    "timeDay": 3231,
+    "timeWeek": 3257,
+    "timeMonth": 3278,
+    "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-08-24": 77,
+      "2024-08-25": 85,
+      "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -159,8 +160,7 @@
       "2023-12-04": 23,
       "2023-10-25": 137,
       "2023-10-24": 31,
-      "2023-09-22": 31,
-      "2023-08-26": 61
+      "2023-09-22": 31
     }
   },
   {
@@ -175,8 +175,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.82%",
     "time": 234,
-    "timeDay": 241,
-    "timeWeek": 219,
+    "timeDay": 196,
+    "timeWeek": 193,
     "timeMonth": 213,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -185,8 +185,7 @@
       "2024-04-23": 27,
       "2024-03-25": 622,
       "2023-10-25": 131,
-      "2023-10-24": 27,
-      "2023-08-26": 56
+      "2023-10-24": 27
     }
   },
   {
@@ -195,18 +194,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "down",
-    "uptime": "85.22%",
+    "uptime": "85.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.68%",
+    "uptimeYear": "50.41%",
     "time": 270,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2024-08-24": 77,
+      "2024-08-25": 85,
+      "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -388,8 +388,7 @@
       "2024-02-27": 1440,
       "2024-02-26": 1177,
       "2023-10-25": 127,
-      "2023-10-24": 24,
-      "2023-08-26": 53
+      "2023-10-24": 24
     }
   }
 ]
