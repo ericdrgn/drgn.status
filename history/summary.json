@@ -5,18 +5,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "cloud",
     "status": "down",
-    "uptime": "75.72%",
+    "uptime": "75.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "4.59%",
-    "time": 3244,
-    "timeDay": 4157,
-    "timeWeek": 4143,
-    "timeMonth": 5132,
-    "timeYear": 4263,
+    "uptimeYear": "4.32%",
+    "time": 3252,
+    "timeDay": 4167,
+    "timeWeek": 4139,
+    "timeMonth": 5059,
+    "timeYear": 4275,
     "dailyMinutesDown": {
-      "2025-03-24": 104,
+      "2025-03-25": 101,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -364,8 +365,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1440,
       "2024-04-11": 1440,
-      "2024-04-10": 1055,
-      "2024-03-25": 622
+      "2024-04-10": 1055
     }
   },
   {
@@ -374,18 +374,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "vault",
     "status": "down",
-    "uptime": "85.31%",
+    "uptime": "85.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "42.52%",
-    "time": 2257,
-    "timeDay": 4177,
-    "timeWeek": 5744,
-    "timeMonth": 5041,
-    "timeYear": 2972,
+    "uptimeYear": "42.25%",
+    "time": 2265,
+    "timeDay": 3878,
+    "timeWeek": 5547,
+    "timeMonth": 5031,
+    "timeYear": 2982,
     "dailyMinutesDown": {
-      "2025-03-24": 104,
+      "2025-03-25": 101,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -598,8 +599,7 @@
       "2024-08-26": 299,
       "2024-08-10": 20,
       "2024-05-31": 63,
-      "2024-04-23": 27,
-      "2024-03-25": 622
+      "2024-04-23": 27
     }
   },
   {
@@ -608,7 +608,7 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "down",
-    "uptime": "72.78%",
+    "uptime": "72.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -619,7 +619,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-24": 104,
+      "2025-03-25": 101,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -982,8 +983,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   }
 ]
