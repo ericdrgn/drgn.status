@@ -5,18 +5,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "cloud",
     "status": "down",
-    "uptime": "73.99%",
+    "uptime": "73.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3307,
     "timeDay": 116,
-    "timeWeek": 128,
-    "timeMonth": 1205,
-    "timeYear": 4257,
+    "timeWeek": 130,
+    "timeMonth": 1071,
+    "timeYear": 4248,
     "dailyMinutesDown": {
-      "2025-04-27": 110,
+      "2025-04-28": 108,
+      "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -379,8 +380,7 @@
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
-      "2024-04-29": 1440,
-      "2024-04-28": 1440
+      "2024-04-29": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "vault",
     "status": "down",
-    "uptime": "83.36%",
+    "uptime": "83.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.33%",
-    "time": 2428,
-    "timeDay": 114,
-    "timeWeek": 126,
-    "timeMonth": 2425,
+    "uptimeYear": "33.06%",
+    "time": 2427,
+    "timeDay": 121,
+    "timeWeek": 128,
+    "timeMonth": 1561,
     "timeYear": 3225,
     "dailyMinutesDown": {
-      "2025-04-27": 110,
+      "2025-04-28": 108,
+      "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -655,7 +656,7 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "down",
-    "uptime": "71.12%",
+    "uptime": "71.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -666,7 +667,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-27": 110,
+      "2025-04-28": 108,
+      "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -1029,8 +1031,7 @@
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
-      "2024-04-29": 1440,
-      "2024-04-28": 1440
+      "2024-04-29": 1440
     }
   }
 ]
