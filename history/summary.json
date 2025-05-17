@@ -5,18 +5,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "cloud",
     "status": "down",
-    "uptime": "73.06%",
+    "uptime": "73.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3259,
-    "timeDay": 166,
+    "time": 3258,
+    "timeDay": 108,
     "timeWeek": 145,
     "timeMonth": 133,
-    "timeYear": 4086,
+    "timeYear": 4076,
     "dailyMinutesDown": {
-      "2025-05-16": 109,
+      "2025-05-17": 106,
+      "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -379,8 +380,7 @@
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
-      "2024-05-18": 1440,
-      "2024-05-17": 1440
+      "2024-05-18": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "vault",
     "status": "down",
-    "uptime": "82.31%",
+    "uptime": "82.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.13%",
+    "uptimeYear": "27.85%",
     "time": 2426,
-    "timeDay": 177,
-    "timeWeek": 152,
+    "timeDay": 116,
+    "timeWeek": 154,
     "timeMonth": 133,
     "timeYear": 3223,
     "dailyMinutesDown": {
-      "2025-05-16": 109,
+      "2025-05-17": 106,
+      "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -674,7 +675,7 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "down",
-    "uptime": "70.22%",
+    "uptime": "70.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -685,7 +686,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 109,
+      "2025-05-17": 106,
+      "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -1048,8 +1050,7 @@
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
-      "2024-05-18": 1440,
-      "2024-05-17": 1440
+      "2024-05-18": 1440
     }
   }
 ]
