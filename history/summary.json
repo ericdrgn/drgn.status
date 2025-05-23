@@ -5,18 +5,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "cloud",
     "status": "down",
-    "uptime": "72.77%",
+    "uptime": "72.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 3276,
-    "timeDay": 5368,
-    "timeWeek": 1617,
-    "timeMonth": 480,
-    "timeYear": 4062,
+    "time": 3289,
+    "timeDay": 6307,
+    "timeWeek": 2494,
+    "timeMonth": 687,
+    "timeYear": 4071,
     "dailyMinutesDown": {
-      "2025-05-22": 109,
+      "2025-05-23": 109,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -379,8 +380,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "vault",
     "status": "down",
-    "uptime": "81.98%",
+    "uptime": "81.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.48%",
-    "time": 2442,
-    "timeDay": 4192,
-    "timeWeek": 1303,
-    "timeMonth": 407,
-    "timeYear": 3246,
+    "uptimeYear": "26.21%",
+    "time": 2453,
+    "timeDay": 5184,
+    "timeWeek": 2019,
+    "timeMonth": 576,
+    "timeYear": 3260,
     "dailyMinutesDown": {
-      "2025-05-22": 109,
+      "2025-05-23": 109,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -680,7 +681,7 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "down",
-    "uptime": "69.94%",
+    "uptime": "69.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -691,7 +692,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-22": 109,
+      "2025-05-23": 109,
+      "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -1054,8 +1056,7 @@
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
-      "2024-05-24": 1440,
-      "2024-05-23": 1440
+      "2024-05-24": 1440
     }
   }
 ]
