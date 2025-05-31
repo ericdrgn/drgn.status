@@ -5,18 +5,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "cloud",
     "status": "down",
-    "uptime": "72.38%",
+    "uptime": "72.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3369,
-    "timeDay": 2727,
-    "timeWeek": 5887,
-    "timeMonth": 2030,
-    "timeYear": 4124,
+    "time": 3381,
+    "timeDay": 6272,
+    "timeWeek": 6186,
+    "timeMonth": 2167,
+    "timeYear": 4133,
     "dailyMinutesDown": {
-      "2025-05-30": 107,
+      "2025-05-31": 107,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -379,8 +380,7 @@
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
-      "2024-06-01": 1440,
-      "2024-05-31": 1440
+      "2024-06-01": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "vault",
     "status": "down",
-    "uptime": "81.55%",
+    "uptime": "81.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "24.29%",
-    "time": 2526,
-    "timeDay": 6255,
-    "timeWeek": 5139,
-    "timeMonth": 1745,
-    "timeYear": 3360,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "24.02%",
+    "time": 2533,
+    "timeDay": 3890,
+    "timeWeek": 4806,
+    "timeMonth": 1815,
+    "timeYear": 3371,
     "dailyMinutesDown": {
-      "2025-05-30": 107,
+      "2025-05-31": 107,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -678,8 +679,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 299,
-      "2024-08-10": 20,
-      "2024-05-31": 63
+      "2024-08-10": 20
     }
   },
   {
@@ -688,18 +688,19 @@
     "icon": "https://res.cloudinary.com/drgn/image/upload/v1617220764/favicon_n61otn.png",
     "slug": "file-share",
     "status": "down",
-    "uptime": "69.58%",
+    "uptime": "69.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 185,
+    "time": 184,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 107,
+      "2025-05-31": 107,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -1062,8 +1063,7 @@
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
-      "2024-06-01": 1440,
-      "2024-05-31": 1440
+      "2024-06-01": 1440
     }
   }
 ]
